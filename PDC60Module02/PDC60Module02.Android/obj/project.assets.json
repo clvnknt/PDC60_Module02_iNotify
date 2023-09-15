@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
       "projectName": "PDC60Module02.Android",
-      "projectPath": "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\PDC60Module02.Android.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj"
+            "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj"
             }
           }
         }

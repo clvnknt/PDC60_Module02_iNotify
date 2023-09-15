@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638303700634587059
+_nugetassetstimestamp=638303743801959939
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\user\documents\pamandanan_bsit-4-a\visual studio repos\pdc60module02\pdc60module02\pdc60module02.android\pdc60module02.android.csproj
+projectfullpath=c:\users\user\source\repos\pamandanan_bsit-4-a\pdc60module02\pdc60module02\pdc60module02.android\pdc60module02.android.csproj

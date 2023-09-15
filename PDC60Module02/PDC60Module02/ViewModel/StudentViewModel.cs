@@ -13,6 +13,8 @@ namespace PDC60Module02.ViewModel
         public Student StudentSet { get; set; }
         public Command SubmitEntry {  get; set; }
 
+        public Command ClearEntry { get; set; }
+
         public string SubjectCodeEntry { get; set; }
         public string SubjectCodeDisplay { get; set; }
 
@@ -34,6 +36,30 @@ namespace PDC60Module02.ViewModel
                 SubjectCodeDisplay = SubjectCodeEntry;
                 SubjectTitleDisplay = SubjectTitleEntry;
                 SubjectUnitDisplay = SubjectUnitEntry;
+
+                onPropertyChanged(nameof(SubjectCodeDisplay));
+                onPropertyChanged(nameof(SubjectCodeEntry));
+
+                onPropertyChanged(nameof(SubjectTitleDisplay));
+                onPropertyChanged(nameof(SubjectTitleEntry));
+
+                onPropertyChanged(nameof(SubjectUnitDisplay));
+                onPropertyChanged(nameof(SubjectUnitEntry));
+            });
+
+            ClearEntry = new Command(() =>
+            {
+                StudentSet = new Student
+                {
+                    SubjectCode = SubjectCodeEntry,
+                };
+
+                SubjectCodeEntry = "";
+                SubjectTitleEntry = "";
+                SubjectUnitEntry = "";
+                SubjectCodeDisplay = "";
+                SubjectTitleDisplay = "";
+                SubjectUnitDisplay = "";
 
                 onPropertyChanged(nameof(SubjectCodeDisplay));
                 onPropertyChanged(nameof(SubjectCodeEntry));

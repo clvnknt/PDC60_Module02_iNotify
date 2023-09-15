@@ -14,6 +14,7 @@
             <Entry Text ="{Binding SubjectUnitEntry}"/>
 
             <Button Command="{Binding SubmitEntry}" Text="Submit"/>
+            <Button Command="{Binding ClearEntry}" Text="Clear"/>
 
             <Label Text="{Binding SubjectCodeDisplay}"/>
             <Label Text="{Binding SubjectTitleDisplay}"/>

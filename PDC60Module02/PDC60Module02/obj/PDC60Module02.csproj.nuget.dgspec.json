@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {
+    "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj",
         "projectName": "PDC60Module02",
-        "projectPath": "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Pamandanan_BSIT-4-A\\Visual Studio Repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Pamandanan_BSIT-4-A\\PDC60Module02\\PDC60Module02\\PDC60Module02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
